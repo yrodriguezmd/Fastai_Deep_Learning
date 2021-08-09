@@ -9,3 +9,14 @@ Focus: installations, imports for fast.ai and downloading images, item and batch
 Dataset: flowers, 450 instances, duckduckgo_search
 
 Published: Medium, 2021 July
+
+
+
+#### FAI_05 image classification
+https://medium.com/@yrodriguezmd/developing-a-taste-for-deep-learning-241cabb43277
+
+Focus: batch augmentation, CNN, learning rate, fine_tune
+
+Dataset: food, 101 000 instances, URLs.FOOD
+
+Published: Medium, 2021 July
