@@ -12,7 +12,7 @@ Published: Medium, 2021 July
 
 
 
-#### FAI_05 image classification
+#### 2.  FAI_05 image classification
 https://medium.com/@yrodriguezmd/developing-a-taste-for-deep-learning-241cabb43277
 
 Focus: batch augmentation, CNN, learning rate, fine_tune
@@ -20,3 +20,11 @@ Focus: batch augmentation, CNN, learning rate, fine_tune
 Dataset: food, 101 000 instances, URLs.FOOD
 
 Published: Medium, 2021 July
+
+#### 3.  figuring_out_accuracy_multi
+https://medium.com/@yrodriguezmd/tackling-the-accuracy-multi-metric-9e2356f62513
+
+Focus:  accuracy_multi metric
+
+Published:  Medium, 2021 July
+
