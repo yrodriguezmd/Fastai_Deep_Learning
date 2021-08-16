@@ -28,7 +28,14 @@ Focus:  accuracy_multi metric
 
 Published:  Medium, 2021 July
 
-#### 4.  FAI shapes
+#### 4.  FAI 06 Multicat Aquarium
+https://becominghuman.ai/starting-the-dive-into-deep-learning-c57c987cc390
+
+Focus:  Multi-label Classification
+
+Published: Medium, 2021 July
+
+#### 5.  FAI shapes
 https://medium.com/@yrodriguezmd/looking-through-the-eyes-of-a-computer-894baa85eea4
 https://medium.com/@yrodriguezmd/looking-through-the-eyes-of-a-computer-ab102a35c6a?source=your_stories_page
 
@@ -36,7 +43,7 @@ Focus:  Convolution process, grayscale, edge filters
 
 Published: Medium, 2021 Aug
 
-#### 5.  Conv planets
+#### 6.  Conv planets
 
 Focus:  CNN, coloured
 
