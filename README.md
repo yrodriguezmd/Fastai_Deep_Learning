@@ -35,7 +35,14 @@ Focus:  Multi-label Classification
 
 Published: Medium, 2021 July
 
-#### 5.  FAI shapes
+#### 5.  Miniproj dataset creation_LOTR
+https://becominghuman.ai/feeding-frenzy-in-deep-learning-3e4408bf3170
+
+Focus: Dataset creation, interpretation
+
+Published: Medium, 2021 July
+
+#### 6.  FAI shapes
 https://medium.com/@yrodriguezmd/looking-through-the-eyes-of-a-computer-894baa85eea4
 https://medium.com/@yrodriguezmd/looking-through-the-eyes-of-a-computer-ab102a35c6a?source=your_stories_page
 
@@ -43,7 +50,7 @@ Focus:  Convolution process, grayscale, edge filters
 
 Published: Medium, 2021 Aug
 
-#### 6.  Conv planets
+#### 7.  Conv planets
 
 Focus:  CNN, coloured
 
