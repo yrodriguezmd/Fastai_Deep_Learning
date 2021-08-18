@@ -38,7 +38,7 @@ Published: Medium, 2021 July
 #### 5.  Miniproj dataset creation_LOTR
 https://becominghuman.ai/feeding-frenzy-in-deep-learning-3e4408bf3170
 
-Focus: Dataset creation, interpretation
+Focus: Dataset creation, GPU, interpretation
 
 Published: Medium, 2021 July
 
