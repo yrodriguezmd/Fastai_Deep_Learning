@@ -28,7 +28,7 @@ Focus:  accuracy_multi metric
 
 Published:  Medium, 2021 July
 
-#### 4.  FAI 06 Multicat Aquarium
+#### 4.  FAI Apply 06 Multicat Aquarium
 https://becominghuman.ai/starting-the-dive-into-deep-learning-c57c987cc390
 
 Focus:  Multi-label Classification
