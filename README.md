@@ -43,7 +43,7 @@ Focus: Dataset creation, GPU, interpretation
 Published: Medium, 2021 July
 
 
-##### 6.  Kaggle birds
+#### 6.  Kaggle birds
 https://medium.com/@yrodriguezmd/applying-computer-vision-techniques-on-a-kaggle-dataset-ba6d3fb8cc52
 
 Focus:  Bridging Kaggle and Colab, resizing, normalization, tta, xresnet, crossentropyloss
