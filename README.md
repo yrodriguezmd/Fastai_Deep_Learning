@@ -42,7 +42,15 @@ Focus: Dataset creation, GPU, interpretation
 
 Published: Medium, 2021 July
 
-#### 6.  FAI shapes
+
+##### 6.  Kaggle birds
+https://medium.com/@yrodriguezmd/applying-computer-vision-techniques-on-a-kaggle-dataset-ba6d3fb8cc52
+
+Focus:  Bridging Kaggle and Colab, resizing, normalization, tta, xresnet, crossentropyloss
+
+Published:  Medium, 2021 Aug 
+
+#### 7.  FAI shapes
 https://medium.com/@yrodriguezmd/looking-through-the-eyes-of-a-computer-894baa85eea4
 https://medium.com/@yrodriguezmd/looking-through-the-eyes-of-a-computer-ab102a35c6a?source=your_stories_page
 
@@ -50,7 +58,7 @@ Focus:  Convolution process, grayscale, edge filters
 
 Published: Medium, 2021 Aug
 
-#### 7.  Conv planets
+#### 8.  Conv planets
 
 Focus:  CNN, coloured
 
