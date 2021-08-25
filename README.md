@@ -58,7 +58,7 @@ Focus:  Convolution process, grayscale, edge filters
 
 Published: Medium, 2021 Aug
 
-#### 8.  Conv planets
+#### 8.  Convolution_planets
 https://medium.com/@yrodriguezmd/convolutional-neural-network-backbone-c584ef162392
 
 Focus:  CNN, coloured
